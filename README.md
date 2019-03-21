@@ -13,6 +13,8 @@ Data has been obtianed from its creator [Jared Vasquez ](https://github.com/jgv7
 
 I've trained the model on Googe's free GPU Tesla K80 on Colab, achieving 0.9807 accuracy result.
 
+Pre-trained model can be found [here](https://drive.google.com/file/d/1UrDk6o8GmBcL6ZS0x2nv65PXJJ9s4JY5/view?usp=sharing)
+
 
 
 
